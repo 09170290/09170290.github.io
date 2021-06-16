@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*	請將first 裡的 jumbotron class 的高度設定為 50vh。*/
+#first .jumbotron{
+	
+
+	height: 70vh;
+	
+}
+
+
+/*	請將first 裡的 h1 標籤的文字顏色為 brown。*/
+#first  h1{
+
+	color:brown;
+	
+}
+
+#introfirst img
+{
+	width:300px;
+	
+	
+}
+#introsecond a{
+	text-decoration: none;
+	color: cadetblue
+}
+#introsecond {
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+/*	把摺頁裡img倒圓角*/
+#accordionExample img{
+	
+	border-radius: 10px;
+}
+
+
+#QAsecond{
+margin-top:80px;
+margin-left:100px;
+}
+
+
+.accordion{
+
+      box-shadow:0 0 10px rgba(34,45,45,0.2);
+      border-radius:5px;
+	  overflow: hidden;
+	  font-family: "Quicksand", sans-serif;
+}
+
+
+
+.one{
+	color: #FFFFFF;
+	background-color:aliceblue;
+}
+
+.two{
+	color: #FFFFFF;
+	background-color:#F7ECF7;
+}
+
+
+
+
+.three{
+	color:black;
+	background-color:#FFFDE0;
+	
+}
+#location{
+margin-top:80px;
+margin-left:100px;
+}
+
+
+
+
+
+
+#introsecond-2 a{
+	text-decoration: none;
+	color: cadetblue
+}
+#introsecond-2 {
+	padding-top: 0px;
+	padding-bottom: 80px;
+}
+
+#introsecond-3 a{
+	text-decoration: none;
+	color: cadetblue
+}
+#introsecond-3 {
+	padding-top: 0px;
+	padding-bottom: 80px;
+}
+
+#introsecond-4 a{
+	text-decoration: none;
+	color: cadetblue
+}
+#introsecond-4 {
+	padding-top: 0px;
+	padding-bottom: 80px;
+}
+
+#introsecond-01 a{
+	text-decoration: none;
+	color:white
+}
+#introsecond-01 {
+	padding-top: 100px;
+	padding-bottom: 90px;
+}
+
+
+#introsecond-02 a{
+	text-decoration: none;
+	color: white
+}
+#introsecond-02 {
+	padding-top: 5px;
+	padding-bottom: 90px;
+}
+
+#introsecond-03 a{
+	text-decoration: none;
+	color: white
+}
+#introsecond-03 {
+	padding-top: 5px;
+	padding-bottom: 90px;
+}
+
+#introsecond-04 a{
+	text-decoration: none;
+	color: white
+}
+#introsecond-04 {
+	padding-top: 5px;
+	padding-bottom: 90px;
+}
+
+#introsecond-05 a{
+	text-decoration: none;
+	color: white
+}
+#introsecond-05 {
+	padding-top: 5px;
+	padding-bottom: 90px;
+}
+
+#introsecond-06 a{
+	text-decoration: none;
+	color: white
+}
+#introsecond-06 {
+	padding-top: 5px;
+	padding-bottom: 90px;
+}
